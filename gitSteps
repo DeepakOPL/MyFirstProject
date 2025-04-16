@@ -1,0 +1,7 @@
+
+Step-1: git init // initialize git
+Step-2: git add . // Staged data
+Step-3: git commit -m "Message" // Move data from staged to commit state
+Step-4: git branch -M main // This will change the Master branch into Main
+Step-5: git remote add origin <Remote Repo URL> // Connect with Remote Repo
+Step-6: git push origin main // send data to remote repo
